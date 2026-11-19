@@ -1,0 +1,7 @@
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\bin\Debug\Q1_ReadStudents_Reader.exe.config
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\bin\Debug\Q1_ReadStudents_Reader.exe
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\bin\Debug\Q1_ReadStudents_Reader.pdb
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\obj\Debug\Q1_ReadStudents_Reader.csproj.AssemblyReference.cache
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\obj\Debug\Q1_ReadStudents_Reader.csproj.CoreCompileInputs.cache
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\obj\Debug\Q1_ReadStudents_Reader.exe
+F:\rough2.0\LabAssignment6\LabAssignment6\Q1_ReadStudents_Reader\obj\Debug\Q1_ReadStudents_Reader.pdb
